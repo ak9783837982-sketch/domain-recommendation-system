@@ -62,7 +62,7 @@ domain-recommendation-system/
 ## ⚙️ Installation & Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/your-username/domain-recommendation-system.git
+   git clone https://github.com/ak9783837982-sketch/domain-recommendation-system.git
 
 2. Navigate to the folder:
    cd domain-recommendation-system
